@@ -803,9 +803,9 @@
     // Default settings
     $.fn.gMap.defaults = {
         log:                     false,
-        address:                 "Adana, Türkiye",
-        latitude:                null,
-        longitude:               null,
+        address:                 "",
+        latitude:                37.039306,
+        longitude:               35.285943,
         zoom:                    3,
         maxZoom: 				 null,
         minZoom: 				 null,
