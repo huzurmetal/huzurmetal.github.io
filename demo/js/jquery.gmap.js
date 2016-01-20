@@ -804,8 +804,8 @@
     $.fn.gMap.defaults = {
         log:                     false,
         address:                 "",
-        latitude:                37.039306,
-        longitude:               35.285943,
+        latitude:                ,
+        longitude:               ,
         zoom:                    3,
         maxZoom: 				 null,
         minZoom: 				 null,
