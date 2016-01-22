@@ -71,7 +71,7 @@ jQuery(document).ready(function($) {
 	(function() {
 
 		var $mainNav    = $('#main-nav').children('ul'),
-			optionsList = '<option value="" selected>Navigate...</option>';
+			optionsList = '<option value="" selected>Yükleniyor</option>';
 
 		// Regular nav
 		$mainNav.on('mouseenter', 'li', function() {

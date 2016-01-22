@@ -34,8 +34,8 @@ body {
 	-webkit-text-size-adjust: 100%;
 }
 
-::-moz-selection { background: #f15a23; color: #fff; text-shadow: none; }
-::selection { background: #f15a23; color: #fff; text-shadow: none; }
+::-moz-selection { background: #999999; color: #fff; text-shadow: none; }
+::selection { background: #999999; color: #fff; text-shadow: none; }
 
 h1, h2, h3, h4, h5, h6 {
 	color: #474747;
@@ -89,7 +89,7 @@ blockquote {
 	blockquote small { font-size: 12px; }
 
 .button, input[type="submit"], input[type="reset"], button {
-	background: #f15a23;
+	background: #555555;
 	border: none;
 	color: #fff;
 	cursor: pointer;
@@ -510,15 +510,15 @@ input.placeholder, textarea.placeholder { color: #b0b0b0; }
 				}
 
 					#main-nav a:hover, #main-nav .hover > a, #main-nav .current > a {
-						border-bottom-color: #f15a23;
-						border-top-color: #f15a23;
-						color: #f15a23;
+						border-bottom-color: #555555;
+						border-top-color: #555555;
+						color: #555555;
 					}
 
 					#main-nav a:hover, #main-nav .hover > a, #main-nav .current > a { background: #f8f8f8; }
 
 					.not-ie #main-nav .current:after {
-						background: #f15a23;
+						background: #555555;
 						bottom: -2.5px;
 						content: '';
 						left: 50%;
@@ -573,7 +573,7 @@ input.placeholder, textarea.placeholder { color: #b0b0b0; }
 						}
 
 							#main-nav ul ul a:hover, #main-nav ul ul .hover > a, #main-nav ul ul .current > a, #main-nav ul ul .current > a:hover {
-								background: #f15a23;
+								background: #555555;
 								color: #fff;
 							}
 
@@ -1197,7 +1197,7 @@ input.placeholder, textarea.placeholder { color: #b0b0b0; }
 		z-index: 100;
 	}
 
-		#back-to-top:hover, .touch-device #back-to-top:active { background-color: #f15a23; }
+		#back-to-top:hover, .touch-device #back-to-top:active { background-color: #555555; }
 
 /* ---------------------------------------------------------------------- */
 /*	Home
