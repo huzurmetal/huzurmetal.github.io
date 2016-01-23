@@ -1,8 +1,8 @@
 ## huzurmetal.github.io
 
-This repository contains HTML5 and CSS3 codes for huzurmetal.net website.
+This repository contains HTML5 and CSS3 codes for our website.
 
-TODO
+todo:
 ----
 - [x] Compress pictures  
 - [ ] Get rid of br tags in 'Paratoner' project page.  
