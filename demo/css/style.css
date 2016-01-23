@@ -2321,6 +2321,7 @@ input.placeholder, textarea.placeholder { color: #b0b0b0; }
 /* ---------------------------------------------------------------------- */
 
 #sidebar {
+	font-size: 12px;
 	float: right;
 	width: 220px;
 }
