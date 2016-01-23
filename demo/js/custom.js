@@ -71,7 +71,7 @@ jQuery(document).ready(function($) {
 	(function() {
 
 		var $mainNav    = $('#main-nav').children('ul'),
-			optionsList = '<option value="" selected>Yükleniyor</option>';
+			optionsList = '<option value="" selected>Menü</option>';
 
 		// Regular nav
 		$mainNav.on('mouseenter', 'li', function() {
@@ -1125,7 +1125,7 @@ jQuery(document).ready(function($) {
 
 		var settings = {
 				button      : '#back-to-top',
-				text        : 'Back to Top',
+				text        : 'Yukarı çık',
 				min         : 200,
 				fadeIn      : 400,
 				fadeOut     : 400,
