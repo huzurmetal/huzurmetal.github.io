@@ -393,18 +393,16 @@ textarea {
 	resize: both;
 }
 
-	input:hover, textarea:hover, select:hover { border-color: #dedede; }
-
-	input:focus, textarea:focus, select:focus { border-color: #ccc; }
+input:hover, textarea:hover, select:hover { border-color: #dedede; }
+input:focus, textarea:focus, select:focus { border-color: #ccc; }
 
 input[type="submit"], input[type="reset"], button {
 	font-size: 13px;
 	text-transform: uppercase;
 }
 
-	input[type="submit"].medium, input[type="reset"].medium, button.medium { font-size: 15px; }
-
-	input[type="submit"].large, input[type="reset"].large, button.large { font-size: 17px; }
+input[type="submit"].medium, input[type="reset"].medium, button.medium { font-size: 15px; }
+input[type="submit"].large, input[type="reset"].large, button.large { font-size: 17px; }
 
 select, option {
 	cursor: pointer;
