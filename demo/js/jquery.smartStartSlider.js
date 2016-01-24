@@ -55,7 +55,7 @@
 				$slides.each(function(i) {
 					var $slide	= $(this),
 						bgimage	= $slideBgImage.attr('src');
-					$('<img/>').attr('src', bgimage );
+					$('<images/>').attr('src', bgimage );
 				});
 			},
 			setup : function( $el, $slides, nmbSlides, slideWidth, $slideBg, $buttons, $content, $slideBgImage, $slideImagesContainer, $slidesContainer, $buttonsContainer, $contentContainer, $paginationContainer, $movingElem, settings ) {
